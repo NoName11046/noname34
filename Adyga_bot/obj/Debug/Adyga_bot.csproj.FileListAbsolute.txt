@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\AdygaBot\Adyga_bot\bin\Debug\Adyga_bot.exe
+C:\Users\Administrator\Desktop\AdygaBot\Adyga_bot\bin\Debug\Adyga_bot.pdb
+C:\Users\Administrator\Desktop\AdygaBot\Adyga_bot\obj\Debug\Adyga_bot.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\AdygaBot\Adyga_bot\obj\Debug\Adyga_bot.Forms.LoginForm.resources
+C:\Users\Administrator\Desktop\AdygaBot\Adyga_bot\obj\Debug\Adyga_bot.MainForm.resources
+C:\Users\Administrator\Desktop\AdygaBot\Adyga_bot\obj\Debug\Adyga_bot.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\AdygaBot\Adyga_bot\obj\Debug\Adyga_bot.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\AdygaBot\Adyga_bot\obj\Debug\Adyga_bot.csproj.CopyComplete
+C:\Users\Administrator\Desktop\AdygaBot\Adyga_bot\obj\Debug\Adyga_bot.exe
+C:\Users\Administrator\Desktop\AdygaBot\Adyga_bot\obj\Debug\Adyga_bot.pdb
